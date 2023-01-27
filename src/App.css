@@ -1,0 +1,4 @@
+.app {
+  background-color: var(--clr-body-background);
+  min-height: 100vh;
+}
